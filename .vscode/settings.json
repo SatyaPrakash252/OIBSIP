@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
-        "TASK1\\OnlineReservationSystem\\src"
+        "TASK1/OnlineReservationSystem/src",
+        "TASK4/OnlineExaminationSystem/src"
     ],
     "java.project.referencedLibraries": [
         "TASK1\\OnlineReservationSystem\\lib\\mysql-connector-j-9.3.0.jar"
